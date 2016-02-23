@@ -1,0 +1,20 @@
+In matchup file:
+Players on each side
+Points scored
+Possessions
+Plays
+Duration of Matchup
+Beginning Score & Time of Matchup (for garbage time comps)
+Ending Score & Time of Matchup (for garbage time comps)
+Rebounds (offensive & defensive)
+Rebounding opportunities (offensive & defensive)
+Turnovers
+Steals
+Shot Attempts
+Shooting distance by bin
+Time on shotclock for attempts by bin
+FG% by bin
+Assist Rate by bin
+Assist Rate overall
+4 Factors for each team
+
